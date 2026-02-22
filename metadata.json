@@ -1,0 +1,8 @@
+{
+  "name": "SentryAI: Live Motion Guard",
+  "description": "AI-powered security system that detects suspicious motion and generates cinematic security reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
